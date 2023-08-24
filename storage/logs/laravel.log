@@ -1,0 +1,960 @@
+[2023-08-20 20:11:40] local.ERROR: Command "make:ussd-state" is not defined.
+
+Did you mean one of these?
+    make:cast
+    make:channel
+    make:command
+    make:component
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:scope
+    make:seeder
+    make:test {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:ussd-state\" is not defined.
+
+Did you mean one of these?
+    make:cast
+    make:channel
+    make:command
+    make:component
+    make:controller
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:provider
+    make:request
+    make:resource
+    make:rule
+    make:scope
+    make:seeder
+    make:test at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:725)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('make:ussd-state')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 {main}
+"} 
+[2023-08-20 20:15:55] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:16:40] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:16:40] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:17:00] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:17:00] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:18:11] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:18:11] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:18:11] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:18:41] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:18:41] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:26:16] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-20 20:26:16] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:00:55] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:05:28] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:05:28] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:11:43] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:11:43] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:16:15] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:21:04] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:21:05] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:21:05] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:42:21] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 10:42:22] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:20:46] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:20:46] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:20:46] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:31:11] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:33:39] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:33:40] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:54] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:54] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:55] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:55] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:55] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:55] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:55] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:56] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:34:56] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:35:02] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-21 16:35:02] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-22 09:32:23] local.ERROR: Command "ussd:test" is not defined.
+
+Did you mean one of these?
+    make:test
+    schedule:test
+    ussd:action
+    ussd:state {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"ussd:test\" is not defined.
+
+Did you mean one of these?
+    make:test
+    schedule:test
+    ussd:action
+    ussd:state at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:725)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ussd:test')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 {main}
+"} 
+[2023-08-23 19:37:27] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-23 19:42:46] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-23 19:43:12] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 00:16:45] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 00:21:18] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:42:40] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:43:14] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:43:15] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:43:15] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:43:16] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:44:22] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:44:22] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:44:23] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:45:02] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:45:03] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:48] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:49] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:49] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:52] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:53] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:53] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:53] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:53] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:48:54] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:49:20] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:49:20] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:49:20] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 08:49:21] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 15:45:51] local.ERROR: Serialization of 'Closure' is not allowed {"exception":"[object] (Exception(code: 0): Serialization of 'Closure' is not allowed at C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\FileStore.php:84)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\FileStore.php(84): serialize(Object(Illuminate\\Http\\Request))
+#1 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\FileStore.php(207): Illuminate\\Cache\\FileStore->put('ussd_POST /api/...', Object(Illuminate\\Http\\Request), 0)
+#2 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(367): Illuminate\\Cache\\FileStore->forever('ussd_POST /api/...', Object(Illuminate\\Http\\Request))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(208): Illuminate\\Cache\\Repository->forever('ussd_POST /api/...', Object(Illuminate\\Http\\Request))
+#4 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(233): Illuminate\\Cache\\Repository->put('ussd_POST /api/...', Object(Illuminate\\Http\\Request), NULL)
+#5 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Record.php(97): Illuminate\\Cache\\Repository->set('ussd_POST /api/...', Object(Illuminate\\Http\\Request), NULL)
+#6 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(126): Sparors\\Ussd\\Record->set('sessionId', Object(Illuminate\\Http\\Request))
+#7 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(132): Sparors\\Ussd\\Machine->saveParameter('sessionId', Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(62): Sparors\\Ussd\\Machine->saveParameters()
+#9 C:\\Users\\Hp\\ussd\\app\\Http\\Controllers\\UssdController.php(32): Sparors\\Ussd\\Machine->run()
+#10 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\UssdController->handleUssd(Object(Illuminate\\Http\\Request))
+#11 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction('handleUssd', Array)
+#12 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(259): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\UssdController), 'handleUssd')
+#13 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#14 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(799): Illuminate\\Routing\\Route->run()
+#15 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#16 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#17 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#18 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(159): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(125): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#20 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(87): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequestUsingNamedLimiter(Object(Illuminate\\Http\\Request), Object(Closure), 'api', Object(Closure))
+#21 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'api')
+#22 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#24 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(777): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#25 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(741): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#26 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(730): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#27 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#28 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#36 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#37 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#38 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#39 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#41 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#42 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#45 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#46 C:\\Users\\Hp\\ussd\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#47 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Users\\\\Hp\\\\uss...')
+#48 {main}
+"} 
+[2023-08-24 15:56:52] local.ERROR: Serialization of 'Closure' is not allowed {"exception":"[object] (Exception(code: 0): Serialization of 'Closure' is not allowed at C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\DatabaseStore.php:382)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\DatabaseStore.php(382): serialize(Object(Illuminate\\Http\\Request))
+#1 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\DatabaseStore.php(137): Illuminate\\Cache\\DatabaseStore->serialize(Object(Illuminate\\Http\\Request))
+#2 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\DatabaseStore.php(270): Illuminate\\Cache\\DatabaseStore->put('laravel_cache_u...', Object(Illuminate\\Http\\Request), 315360000)
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(367): Illuminate\\Cache\\DatabaseStore->forever('ussd_POST /api/...', Object(Illuminate\\Http\\Request))
+#4 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(208): Illuminate\\Cache\\Repository->forever('ussd_POST /api/...', Object(Illuminate\\Http\\Request))
+#5 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(233): Illuminate\\Cache\\Repository->put('ussd_POST /api/...', Object(Illuminate\\Http\\Request), NULL)
+#6 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Record.php(97): Illuminate\\Cache\\Repository->set('ussd_POST /api/...', Object(Illuminate\\Http\\Request), NULL)
+#7 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(126): Sparors\\Ussd\\Record->set('sessionId', Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(132): Sparors\\Ussd\\Machine->saveParameter('sessionId', Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(62): Sparors\\Ussd\\Machine->saveParameters()
+#10 C:\\Users\\Hp\\ussd\\app\\Http\\Controllers\\UssdController.php(32): Sparors\\Ussd\\Machine->run()
+#11 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\UssdController->handleUssd(Object(Illuminate\\Http\\Request))
+#12 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction('handleUssd', Array)
+#13 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(259): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\UssdController), 'handleUssd')
+#14 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#15 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(799): Illuminate\\Routing\\Route->run()
+#16 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#17 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(159): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(125): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#21 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(87): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequestUsingNamedLimiter(Object(Illuminate\\Http\\Request), Object(Closure), 'api', Object(Closure))
+#22 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'api')
+#23 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#25 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(777): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#26 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(741): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#27 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(730): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#28 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#29 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#46 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#47 C:\\Users\\Hp\\ussd\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#48 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Users\\\\Hp\\\\uss...')
+#49 {main}
+"} 
+[2023-08-24 16:12:20] local.ERROR: Serialization of 'Closure' is not allowed {"exception":"[object] (Exception(code: 0): Serialization of 'Closure' is not allowed at C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\DatabaseStore.php:382)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\DatabaseStore.php(382): serialize(Object(Illuminate\\Http\\Request))
+#1 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\DatabaseStore.php(137): Illuminate\\Cache\\DatabaseStore->serialize(Object(Illuminate\\Http\\Request))
+#2 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\DatabaseStore.php(270): Illuminate\\Cache\\DatabaseStore->put('laravel_cache_u...', Object(Illuminate\\Http\\Request), 315360000)
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(367): Illuminate\\Cache\\DatabaseStore->forever('ussd_POST /api/...', Object(Illuminate\\Http\\Request))
+#4 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(208): Illuminate\\Cache\\Repository->forever('ussd_POST /api/...', Object(Illuminate\\Http\\Request))
+#5 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(233): Illuminate\\Cache\\Repository->put('ussd_POST /api/...', Object(Illuminate\\Http\\Request), NULL)
+#6 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Record.php(97): Illuminate\\Cache\\Repository->set('ussd_POST /api/...', Object(Illuminate\\Http\\Request), NULL)
+#7 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(126): Sparors\\Ussd\\Record->set('sessionId', Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(132): Sparors\\Ussd\\Machine->saveParameter('sessionId', Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\Hp\\ussd\\vendor\\sparors\\laravel-ussd\\src\\Machine.php(62): Sparors\\Ussd\\Machine->saveParameters()
+#10 C:\\Users\\Hp\\ussd\\app\\Http\\Controllers\\UssdController.php(32): Sparors\\Ussd\\Machine->run()
+#11 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\UssdController->handleUssd(Object(Illuminate\\Http\\Request))
+#12 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction('handleUssd', Array)
+#13 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(259): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\UssdController), 'handleUssd')
+#14 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#15 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(799): Illuminate\\Routing\\Route->run()
+#16 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#17 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(159): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(125): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#21 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(87): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequestUsingNamedLimiter(Object(Illuminate\\Http\\Request), Object(Closure), 'api', Object(Closure))
+#22 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'api')
+#23 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#25 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(777): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#26 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(741): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#27 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(730): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#28 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#29 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#35 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#46 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#47 C:\\Users\\Hp\\ussd\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#48 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Users\\\\Hp\\\\uss...')
+#49 {main}
+"} 
+[2023-08-24 16:14:48] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 16:15:10] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2023-08-24 16:15:31] local.ERROR: Method App\Http\Controllers\UssdController::handleUssd does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method App\\Http\\Controllers\\UssdController::handleUssd does not exist. at C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php:68)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): Illuminate\\Routing\\Controller->__call('handleUssd', Array)
+#1 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction('handleUssd', Array)
+#2 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(259): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\UssdController), 'handleUssd')
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(205): Illuminate\\Routing\\Route->runController()
+#4 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(799): Illuminate\\Routing\\Route->run()
+#5 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#6 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#7 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#8 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(159): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#9 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(125): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#10 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(87): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequestUsingNamedLimiter(Object(Illuminate\\Http\\Request), Object(Closure), 'api', Object(Closure))
+#11 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'api')
+#12 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#13 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#14 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(777): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#15 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(741): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#16 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(730): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#17 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#18 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#36 C:\\Users\\Hp\\ussd\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#37 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Users\\\\Hp\\\\uss...')
+#38 {main}
+"} 
+[2023-08-24 16:16:52] local.ERROR: Function () does not exist {"exception":"[object] (ReflectionException(code: 0): Function () does not exist at C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteSignatureParameters.php:27)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\RouteSignatureParameters.php(27): ReflectionFunction->__construct('')
+#1 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(533): Illuminate\\Routing\\RouteSignatureParameters::fromAction(Array, Array)
+#2 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ImplicitRouteBinding.php(80): Illuminate\\Routing\\Route->signatureParameters(Array)
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ImplicitRouteBinding.php(28): Illuminate\\Routing\\ImplicitRouteBinding::resolveBackedEnumsForRoute(Object(Illuminate\\Routing\\Route), Array)
+#4 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(952): Illuminate\\Routing\\ImplicitRouteBinding::resolveForRoute(Object(Illuminate\\Foundation\\Application), Object(Illuminate\\Routing\\Route))
+#5 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(41): Illuminate\\Routing\\Router->substituteImplicitBindings(Object(Illuminate\\Routing\\Route))
+#6 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#7 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(159): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#8 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(125): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequest(Object(Illuminate\\Http\\Request), Object(Closure), Array)
+#9 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\ThrottleRequests.php(87): Illuminate\\Routing\\Middleware\\ThrottleRequests->handleRequestUsingNamedLimiter(Object(Illuminate\\Http\\Request), Object(Closure), 'api', Object(Closure))
+#10 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 'api')
+#11 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(798): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#13 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(777): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#14 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(741): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#15 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(730): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#16 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#17 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#18 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#19 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#20 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#34 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#35 C:\\Users\\Hp\\ussd\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#36 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Users\\\\Hp\\\\uss...')
+#37 {main}
+"} 
+[2023-08-24 16:17:43] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php:657)
+[stacktrace]
+#0 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(708): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(262): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 C:\\Users\\Hp\\ussd\\vendor\\symfony\\console\\Application.php(174): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 C:\\Users\\Hp\\ussd\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(201): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 C:\\Users\\Hp\\ussd\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
